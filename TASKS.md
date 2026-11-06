@@ -19,7 +19,7 @@
 
 # Development Progress
 
-- [ ] Milestone 0: Foundation
+- [x] Milestone 0: Foundation
 - [ ] Milestone 1: Database & Architecture
 - [ ] Milestone 2: UI/UX Design
 - [ ] Milestone 3: Authentication & Profiles
@@ -38,15 +38,15 @@
 
 ### Tasks
 
-- [ ] Create GitHub repository named `booknest`.
-- [ ] Create `client/`, `server/`, and `docs/` folders.
-- [ ] Create the project README.
-- [ ] Correct the SRS visibility definition to private or public.
-- [ ] Export the SRS as `BookNest_SRS.pdf`.
-- [ ] Save the SRS inside `docs/`.
-- [ ] Create `.gitignore`.
-- [ ] Create `.env.example`.
-- [ ] Commit and push the initial project structure to GitHub.
+- [x] Create GitHub repository named `booknest`.
+- [x] Create `client/`, `server/`, and `docs/` folders.
+- [x] Create the project README.
+- [x] Correct the SRS visibility definition to private or public.
+- [x] Export the SRS as `BookNest_SRS.pdf`.
+- [x] Save the SRS inside `docs/`.
+- [x] Create `.gitignore`.
+- [x] Create `.env.example`.
+- [x] Commit and push the initial project structure to GitHub.
 
 **Deliverable:** A clean GitHub repository containing the project structure and documentation.
 
